@@ -1,0 +1,9 @@
+
+  button
+  {border-radius:300px; border-color:red; height:50px; cursor:pointer; font-weight:bold; length:3000px;;}  
+    button:hover{background-color:green; opacity:0.5; color:white;}
+    button:active{background-color:black; color: white; box-shadow:10px,10px,10px rgba(0,0,0,0.15);
+    }
+    
+    
+</style>
